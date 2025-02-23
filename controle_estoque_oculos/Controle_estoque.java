@@ -838,7 +838,7 @@ public class pi {
             
             System.out.println(ColorCode1+"PAGAMENTO APROVADO."+resetColorCode);
             System.out.println("Obrigado por comprar conosco.");
-            System.out.println("****** VOLTE SEMPRE ******");
+            System.out.println("****** VOLTE SEMPREfit ******");
         
         } else {
             System.out.println(ColorCode1+"SENHA INCORRETA" +resetColorCode+ "\n CARTÃO BLOQUEADO.");
